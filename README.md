@@ -1,4 +1,4 @@
-## approximating-with-numerical-rankdeficiency
+## approximating-with-numericalrankdeficiency
 This project contains all the code to reproduce the figures from "Function Approximation in Numerically Rank-Deficient Bases" by Astrid Herremans and Daan Huybrechs.
 
 Run the following code to reproduce 
